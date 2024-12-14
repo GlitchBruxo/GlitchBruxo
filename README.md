@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/GlitchBruxo/GlitchBruxo/refs/heads/main/image/pc.png" alt="Computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/GlitchBruxo/GlitchBruxo/refs/heads/main/image/pc.png" alt="Computador" min-width="400px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
   Olá meu chamo GlitchedBruxo.<br>
