@@ -20,7 +20,7 @@
 <p align="left">
   💜 Doações:<br>
      <strong>Bitcoin: bc1q0yn3drnrmx3ggfhvy62wf7rznve45y7kdcu93w</strong><br>
-     <strong>Pix: N/A</strong>
+     <strong>Pix: glitchbruxo@gmail.com</strong>
 </p>
   
 <p align="left">
@@ -28,7 +28,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:matheusrosacedaspy@outlook.com" title="Gmail">
+  <a href="mailto:glitchbruxo@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
   <a href="https://discord.gg/dYqycCBn" title="Discord">
