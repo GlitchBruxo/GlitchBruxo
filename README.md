@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/GlitchBruxo/GlitchBruxo/refs/heads/main/image/pc2.png" alt="Computador" min-width="400px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
-  Olá meu chamo GlitchedBruxo.<br>
+  Olá meu chamo xGlitchBruxo.<br>
   e <strong>Quero Fazer A Sociedade Ser Melhor.</strong>
 </p>
 
@@ -19,8 +19,8 @@
 
 <p align="left">
   💜 Doações:<br>
-     <strong>Bitcoin: bc1q0yn3drnrmx3ggfhvy62wf7rznve45y7kdcu93w</strong><br>
-     <strong>Pix: glitchbruxo@gmail.com</strong>
+     <strong>Bitcoin: N/A</strong><br>
+     <strong>Pix: N/A</strong>
 </p>
   
 <p align="left">
